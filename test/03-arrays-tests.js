@@ -37,7 +37,7 @@ describe('03-arrays-tasks', () => {
       }, {
         len: 2,
         expected: [1, 3],
-      }, {
+      },  {
         len: 5,
         expected: [1, 3, 5, 7, 9],
       }, {
